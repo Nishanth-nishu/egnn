@@ -1,0 +1,19 @@
+Collecting numpy
+  Using cached numpy-2.2.6-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl.metadata (62 kB)
+Collecting filelock
+  Using cached filelock-3.20.1-py3-none-any.whl.metadata (2.1 kB)
+Collecting fsspec
+  Downloading fsspec-2025.12.0-py3-none-any.whl.metadata (10 kB)
+Collecting networkx
+  Downloading networkx-3.4.2-py3-none-any.whl.metadata (6.3 kB)
+Collecting typing-extensions
+  Using cached typing_extensions-4.15.0-py3-none-any.whl.metadata (3.3 kB)
+Using cached numpy-2.2.6-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (16.8 MB)
+Using cached filelock-3.20.1-py3-none-any.whl (16 kB)
+Downloading fsspec-2025.12.0-py3-none-any.whl (201 kB)
+Downloading networkx-3.4.2-py3-none-any.whl (1.7 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.7/1.7 MB 5.4 MB/s  0:00:00
+Using cached typing_extensions-4.15.0-py3-none-any.whl (44 kB)
+Installing collected packages: typing-extensions, numpy, networkx, fsspec, filelock
+
+Successfully installed filelock-3.20.1 fsspec-2025.12.0 networkx-3.4.2 numpy-2.2.6 typing-extensions-4.15.0
